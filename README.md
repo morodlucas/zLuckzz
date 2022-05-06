@@ -4,4 +4,4 @@
 
 * Trynna learn python and _hopefully_ I will learn C too
 
-* Currently learning Java, HTML, CSS
+* Currently learning Java, HTML and CSS
