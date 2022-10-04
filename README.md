@@ -4,4 +4,4 @@
 
 * Trynna learn python;
 
-* Currently learning Java, HTML, CSS and JavaScript;
+* Currently learning Java, HTML, CSS and JavaScript.
